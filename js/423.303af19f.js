@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue_router"]=self["webpackChunkvue_router"]||[]).push([[423],{5423:function(r,u,e){e.r(u),e.d(u,{default:function(){return o}});var n=e(3396);function t(r,u){return(0,n.wg)(),(0,n.iD)("h2",null,"後台產品列表")}var c=e(89);const a={},f=(0,c.Z)(a,[["render",t]]);var o=f}}]);
+//# sourceMappingURL=423.303af19f.js.map

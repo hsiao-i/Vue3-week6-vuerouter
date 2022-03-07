@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue_router"]=self["webpackChunkvue_router"]||[]).push([[563],{3563:function(r,u,e){e.r(u),e.d(u,{default:function(){return o}});var n=e(3396);function t(r,u){return(0,n.wg)(),(0,n.iD)("h2",null,"購物車頁面")}var c=e(89);const a={},f=(0,c.Z)(a,[["render",t]]);var o=f}}]);
+//# sourceMappingURL=563.86b2b099.js.map
